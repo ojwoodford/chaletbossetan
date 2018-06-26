@@ -1,0 +1,18 @@
+<!--#include virtual="top.inc" -->
+<p>Morzine is in the heart of the <a href="http://www.portesdusoleil.com">Portes du Soleil</a> ski domain, one of the largest connected ski areas in Europe. It is 8 hours drive from Calais, and an hour drive from Geneva Airport (direct scheduled flights to/from London, Bournemouth, Bristol, East Midlands, Edinburgh, Liverpool, etc.), with regular transfers provided by <a href="http://www.morzexpress.com">MorzExpress</a>, <a href="http://www.skiidygonzales.com">Skiidy Gonzales</a> and <a href="http://www.morzineshuttle.com">Morzine Shuttle</a>, amongst others.</p>
+<p>Chalet Bossetan is situated in an excellent position just above Morzine, offering great views as well as a short walk to town. You can also ski directly from and back to the chalet, snow conditions permitting.</p>
+<p>Below are two interactive maps of Morzine and the surrounding area, both showing the location of Chalet Bossetan. The map on the left shows roads, and also various details relevant to Chalet Bossetan -
+drag the map around, zoom in and out (buttons top left), see terrain or satellite imagery (buttons top right), and click on the icons and lines for further details. The map on the right shows Chalet Bossetan on a piste map of the Portes du Soleil ski area - again, drag the map around, and use Ctrl and Shift keys to zoom in and out (having clicked on the map).</p>
+<table cellspacing="0" cellpadding="0"><tr><td width="486px">
+<iframe style="width:486px; height:486px;" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="http://maps.google.co.uk/maps/ms?hl=en&amp;gl=uk&amp;ie=UTF8&amp;oe=UTF8&amp;s=AARTsJp17cEhVMVwcg92mBKKXMoc8WxqaQ&amp;msa=0&amp;msid=118082409727805668439.00045651eb9f17a415d7c&amp;ll=46.177,6.706&amp;spn=0.0208,0.041714&amp;z=15&amp;output=embed"></iframe>
+<div style="font-size:8pt; float:left;">View <a href="http://maps.google.co.uk/maps/ms?hl=en&ie=UTF8&msa=0&msid=118082409727805668439.00045651eb9f17a415d7c&ll=46.174244,6.704836&spn=0.023893,0.055618&z=15" target="_blank">larger map</a>, especially if the map or chalet icon have not appeared.</div>
+</td><td width="486px">
+<object style="width:486px; height:486px;" id="theMovie" classid="clsid:d27cdb6e-ae6d-11cf-96b8-444553540000">
+  <param name="FlashVars" value="zoomifyImagePath=piste_map/&zoomifyX=-0.19&zoomifyY=0.25&zoomifyZoom=75" />
+  <param name="MENU" value="FALSE" />
+  <param name="SRC" value="piste_map/zoomifyViewer.swf" />
+  <embed FlashVars="zoomifyImagePath=piste_map/&zoomifyX=-0.19&zoomifyY=0.25&zoomifyZoom=75" src="piste_map/zoomifyViewer.swf" menu="false" type="application/x-shockwave-flash" pluginspage="http://www.adobe.com/go/getflash" width="486" height="486" name="theMovie" alt="Portes du Soleil piste map"></embed>
+</object>
+<div style="font-size:8pt; float:right;">Powered by <a href="http://www.zoomify.com/" target="_blank">Zoomify</a>.</div>
+</td></tr></table>
+<!--#include virtual="bottom.inc" -->

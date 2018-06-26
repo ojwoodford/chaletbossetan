@@ -1,0 +1,25 @@
+<!--#include virtual="top.inc" -->
+<p>Below are the prices to rent Chalet Bossetan self-catered for a week, starting on the dates shown, for the 2016/17 winter season, and also the availability of the chalet for each week.</p>
+<center><table cellpadding="2px" cellspacing="1px" border="1px" width="470px">
+   <tr><th width="120px">Start date</th><th width="210px">Chalet price (per week)</th><th width="140px">Availability</th></tr>
+   <tr><td>Dec 17</td><td>&pound;6000</td><td>Booked</td></tr>
+   <tr><td>Dec 24</td><td>&pound;7200</td><td>Booked</td></tr>
+   <tr><td>Dec 31</td><td>&pound;7200</td><td>Booked</td></tr>
+   <tr><td>Jan 7</td><td>&pound;5900</td><td>Booked</td></tr>
+   <tr><td>Jan 14</td><td>&pound;5900</td><td>Booked</td></tr>
+   <tr><td>Jan 21</td><td>&pound;5900</td><td>Booked</td></tr>
+   <tr><td>Jan 28</td><td>&pound;5900</td><td class="avail">Available</td></tr>
+   <tr><td>Feb 4</td><td>&pound;6400</td><td class="avail">Available</td></tr>
+   <tr><td>Feb 11</td><td>&pound;7200</td><td>Booked</td></tr>
+   <tr><td>Feb 18</td><td>&pound;6400</td><td class="avail">Available</td></tr>
+   <tr><td>Feb 25</td><td>&pound;6400</td><td class="avail">Available</td></tr>
+   <tr><td>Mar 4</td><td>&pound;6400</td><td>Booked</td></tr>
+   <tr><td>Mar 11</td><td>&pound;6400</td><td>Booked</td></tr>
+   <tr><td>Mar 18</td><td>&pound;6400</td><td>Booked</td></tr>
+   <tr><td>Mar 25</td><td>&pound;6800</td><td class="avail">Available</td></tr>
+   <tr><td>Apr 1</td><td>&pound;6800</td><td class="avail">Available</td></tr>
+   <tr><td>Apr 8</td><td>&pound;6800</td><td class="avail">Available</td></tr>
+</table></center>
+<p>We can be flexible on start days and also number of days (minimum stay: 7 days; each extra day: £1000).</p>
+<p>We also accept payment in euros - the total price in euros is determined at the time of booking (conversion will be at the market rate).</p>
+<!--#include virtual="bottom.inc" -->

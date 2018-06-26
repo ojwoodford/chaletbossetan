@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<simpleviewergallery 
+
+	useFlickr="false"
+	resizeOnImport="true"
+	cropToFit="false"
+	backgroundColor="888888"
+	backgroundTransparent="true"
+	frameWidth="10"
+	thumbColumns="2"
+	showOpenButton="false"
+
+>
+<image imageURL="gallery/images/living7.jpg"
+	thumbURL="gallery/thumbs/living7.jpg"
+	linkURL="gallery/images/living7.jpg"
+	linkTarget="_blank">
+    <caption><![CDATA[]]></caption>
+</image>
+  <image imageURL="gallery/images/front3.jpg"
+	thumbURL="gallery/thumbs/front3.jpg"
+	linkURL="gallery/images/front3.jpg"
+	linkTarget="_blank">
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="gallery/images/master_bedroom.jpg"
+	thumbURL="gallery/thumbs/master_bedroom.jpg"
+	linkURL="gallery/images/master_bedroom.jpg"
+	linkTarget="_blank">
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="gallery/images/dusk.jpg"
+	thumbURL="gallery/thumbs/dusk.jpg"
+	linkURL="gallery/images/dusk.jpg"
+	linkTarget="_blank">
+    <caption><![CDATA[]]></caption>
+  </image>
+<image imageURL="gallery/images/living6.jpg"
+	thumbURL="gallery/thumbs/living6.jpg"
+	linkURL="gallery/images/living6.jpg"
+	linkTarget="_blank">
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="gallery/images/dining2.jpg"
+	thumbURL="gallery/thumbs/dining2.jpg"
+	linkURL="gallery/images/dining2.jpg"
+	linkTarget="_blank">
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="gallery/images/view1.jpg"
+	thumbURL="gallery/thumbs/view1.jpg"
+	linkURL="gallery/images/view1.jpg"
+	linkTarget="_blank">
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="gallery/images/living3.jpg"
+	thumbURL="gallery/thumbs/living3.jpg"
+	linkURL="gallery/images/living3.jpg"
+	linkTarget="_blank">
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="gallery/images/living4.jpg"
+	thumbURL="gallery/thumbs/living4.jpg"
+	linkURL="gallery/images/living4.jpg"
+	linkTarget="_blank">
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="gallery/images/view3.jpg"
+	thumbURL="gallery/thumbs/view3.jpg"
+	linkURL="gallery/images/view3.jpg"
+	linkTarget="_blank">
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="gallery/images/living5.jpg"
+	thumbURL="gallery/thumbs/living5.jpg"
+	linkURL="gallery/images/living5.jpg"
+	linkTarget="_blank">
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="gallery/images/front1.jpg"
+	thumbURL="gallery/thumbs/front1.jpg"
+	linkURL="gallery/images/front1.jpg"
+	linkTarget="_blank">
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="gallery/images/dining.jpg"
+	thumbURL="gallery/thumbs/dining.jpg"
+	linkURL="gallery/images/dining.jpg"
+	linkTarget="_blank">
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="gallery/images/view2.jpg"
+	thumbURL="gallery/thumbs/view2.jpg"
+	linkURL="gallery/images/view2.jpg"
+	linkTarget="_blank">
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="gallery/images/front2.jpg"
+	thumbURL="gallery/thumbs/front2.jpg"
+	linkURL="gallery/images/front2.jpg"
+	linkTarget="_blank">
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="gallery/images/studio_bedroom.jpg"
+	thumbURL="gallery/thumbs/studio_bedroom.jpg"
+	linkURL="gallery/images/studio_bedroom.jpg"
+	linkTarget="_blank">
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="gallery/images/night.jpg"
+	thumbURL="gallery/thumbs/night.jpg"
+	linkURL="gallery/images/night.jpg"
+	linkTarget="_blank">
+    <caption><![CDATA[]]></caption>
+  </image>
+</simpleviewergallery>

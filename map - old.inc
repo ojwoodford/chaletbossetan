@@ -1,0 +1,12 @@
+<p>This page contains two maps of Morzine and the surrounding area, a <a href="#road">road map</a> and a <a href="#piste">piste map</a>, both showing the location of Chalet Bossetan.</p>
+<p id="road">The map of Morzine below, showing Chalet Bossetan's position, is interactive - zoom in and out, move around, see terrain or satellite imagery, and click on the icons and lines for details. If the map still hasn't appeared after a few seconds, <a href="http://maps.google.com/maps/ms?ie=UTF8&hl=en&msa=0&msid=118082409727805668439.00045651eb9f17a415d7c&z=15" target="_blank">click here</a>.</p>
+<iframe alt="Map of Morzine" width="972px" height="700px" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="http://maps.google.co.uk/maps/ms?hl=en&amp;gl=uk&amp;ie=UTF8&amp;oe=UTF8&amp;s=AARTsJp17cEhVMVwcg92mBKKXMoc8WxqaQ&amp;msa=0&amp;msid=118082409727805668439.00045651eb9f17a415d7c&amp;ll=46.17888,6.703677&amp;spn=0.0208,0.041714&amp;z=15&amp;output=embed"></iframe>
+<p>Morzine is an hour's drive from Geneva Airport (direct scheduled flights to/from London, Bournemouth, Bristol, East Midlands, Edinburgh, Liverpool, etc.) and 8 hours drive from Calais. It is in the heart of the "Portes du Soleil" ski domain, one of the largest connected ski areas in Europe.</p>
+<p id="piste">Below is a piste map of the Portes du Soleil ski area, again showing the position of Chalet Bossetan. You can move around by dragging the map, and zoom in and out using the buttons at the bottom centre of the map.</p>
+<object classid="clsid:D27CDB6E-AE6D-11cf-96B8-444553540000" codebase="http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=6,0,40,0" width="972" height="700" id="theMovie" alt="Portes du Soleil piste map">
+  <param name="FlashVars" value="zoomifyImagePath=piste_map/&zoomifyX=-0.19&zoomifyY=0.25&zoomifyZoom=100">
+  <param name="MENU" value="FALSE">
+  <param name="SRC" value="piste_map/zoomifyViewer.swf">
+  <embed FlashVars="zoomifyImagePath=piste_map/&zoomifyX=-0.19&zoomifyY=0.25&zoomifyZoom=100" src="piste_map/zoomifyViewer.swf" menu="false" pluginspage="http://www.macromedia.com/shockwave/download/index.cgi?P1_Prod_Version=ShockwaveFlash"  width="972" height="700" name="theMovie" alt="Portes du Soleil piste map"></embed>
+</object>
+<div style="font-size:8pt; float:right;">Powered by <a href="http://www.zoomify.com/" target="_blank">Zoomify</a></div>

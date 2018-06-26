@@ -1,0 +1,33 @@
+body {background-color:Gray; padding:0px; margin:0px; margin-top:20px; margin-bottom:20px; color:White; font-family:verdana,sans-serif;}
+p,li {font-size:10pt; text-align:justify;}
+div {padding:0px; margin:0px; border:0px;}
+h1 {font-size:12pt; font-weight:bold; text-align:center;}
+h2 {font-size:10pt; font-weight:normal; text-align:justify;}
+h3 {font-size:10pt; font-weight:normal; font-style:italic; text-align:justify;}
+td,th {font-size:10pt; text-align:center; vertical-align:top;}
+th {font-weight:bold;}
+a {color:White;}
+a.subtle {text-decoration:none;}
+a.subtle:hover {text-decoration:underline;}
+img {border:0px; vertical-align:bottom;}
+img.small {width:108px; height:108px;}
+img.plan {width:324px; height:216px;}
+td.text {width:432px; height:216px; vertical-align:middle; padding:5px;}
+td.text2 {width:432px; height:540px; vertical-align:top; padding:5px;}
+td.bottom a {text-decoration:none;}
+td.bottom a:hover {text-decoration:underline;}
+tr.bottom td {padding-top:10px; padding-bottom:5px;}
+tr.top td {padding:0px; padding-bottom:10px; vertical-align:top; text-align:left;}
+td.top a {font:10pt verdana,sans-serif; font-weight:bold; text-decoration:none; margin-left:36px;}
+td.top a:hover {text-decoration:underline;}
+td.top img {vertical-align:top;}
+div.top {position:absolute; top:46px; left:0px; white-space:nowrap;}
+td.avail {text-decoration:blink; color:Lime;}
+img.square {width:304px; height:304px; border:10px solid #FFFFFF;}
+img.wide {width:412px; height:304px; z-index:1; visibility:hidden; position:absolute; top:0px; left:0px; border:10px solid #FFFFFF;}
+img.xtra {width:520px; height:304px; z-index:2; visibility:hidden; position:absolute; top:0px; left:-108px; border:10px solid #FFFFFF;}
+img.tall {width:304px; height:412px; z-index:1; visibility:hidden; position:absolute; top:-108px; left:0px; border:10px solid #FFFFFF;}
+img.ultra {width:304px; height:520px; z-index:2; visibility:hidden; position:absolute; top:-108px; left:0px; border:10px solid #FFFFFF;}
+div.container {position:relative;}
+p.rgt {padding:0pt; margin:0pt; padding-top:10pt; padding-right:10pt; clear:right;}
+p.lft {padding:0pt; margin:0pt; padding-top:10pt; padding-left:10pt; clear:left;}

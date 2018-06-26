@@ -1,0 +1,60 @@
+<!--#include virtual="top.inc" -->
+<script type="text/javascript" language="JavaScript" src="chalet.js"></script>
+
+<div style="width:972px; min-height:972px; background-image:url('images/t4.jpg');">
+
+<div style="float:right; margin-left:10pt; width:540px; height:432px;">
+<div style="float:left;">
+<img class="small" src="images/a26.jpg" onmouseover="sq('images/a26s.jpg',1)" /><br />
+<img class="small" src="images/a39.jpg" onmouseover="wd('images/a39w.jpg',1)" /><br />
+<img class="small" src="images/a7.jpg" onmouseover="ul('images/a7u.jpg',1)" /><br />
+<img class="small" src="images/a54.jpg" onmouseover="wd('images/a54w.jpg',1)" />
+</div>
+<div style="float:left;">
+<img class="small" src="images/a44.jpg" onmouseover="wd('images/a44w.jpg',1)" /><img class="small" src="images/a13.jpg" onmouseover="xt('images/a13x.jpg',1)" /><img class="ie6_fix" width="108px" height="108px" src="images/p1.png" onmouseover="xt('images/p1x.png',1)" />
+<div class="container"><img class="square" id="s1" src="images/a26s.jpg" alt="" /><img class="wide" id="w1" alt="" src="" /><img class="xtra" id="x1" alt="" src="" /><img class="tall" id="t1" alt="" src="" /><img class="ultra" id="u1" alt="" src="" /></div>
+</div>
+<div style="float:left;">
+<img class="small" src="images/a35.jpg" onmouseover="sq('images/a35s.jpg',1)" /><br />
+<img class="small" src="images/a19.jpg" onmouseover="sq('images/a19s.jpg',1)" /><br />
+<img class="small" src="images/a48.jpg" onmouseover="tl('images/a48t.jpg',1)" /><br />
+<img class="small" src="images/a49.jpg" onmouseover="sq('images/a49s.jpg',1)" />
+</div>
+</div>
+
+<p class="lft">Chalet Bossetan enjoys Morzine's most enviable position: right on the piste, with amazing views of the town and the surrounding mountains. Plus it's just a ten minute walk from town, up a quiet road.</p>
+<p class="lft">The chalet, built in 1997, has recently been upgraded to a very high standard. The result is a large, comfortable living area and five spacious bedrooms, each with an en suite bathroom, all decorated in a stylish, contemporary fashion.</p>
+<p class="lft">The first floor is all open plan living space, with tall windows (and balconies) from which to admire the great scenery. The living room has two comfortable seating areas, the larger one centred around the cosy, wood burning stove and antique coffee table, and the other around the entertainment system: 42" tv, hifi, dvd player and satellite for British terrestrial channels. There is also wifi internet access throughout the house.</p>
+<p class="lft">The living room opens onto the spacious dining room, which itself looks out onto a large terrace, perfect for summer barbecues. Adjoining it across the breakfast bar is the kitchen, with range cooker with gas hobs and electric oven, 2 fridges and a dishwasher, so catering for 10 can be a joy.</p>
+<p class="lft"><i>Scroll over thumbnail images to see them enlarged.</i></p>
+
+<div style="float:right; width:972px; height:108px;">
+<img class="small" src="images/a5.jpg" onmouseover="sq('images/a5s.jpg',2)" /><img class="small" src="images/a53.jpg" onmouseover="wd('images/a53w.jpg',2)" /><img class="small" src="images/a12.jpg" onmouseover="wd('images/a12w.jpg',2)" /><img class="ie6_fix" width="108px" height="108px" src="images/p2.png" onmouseover="xt('images/p2x.png',2)" /><img class="small" src="images/a31.jpg" onmouseover="sq('images/a31s.jpg',2)" /><img class="small" src="images/a15.jpg" onmouseover="wd('images/a15w.jpg',1)" /><img class="small" src="images/a40.jpg" onmouseover="sq('images/a40s.jpg',1)" /><img class="small" src="images/a52.jpg" onmouseover="xt('images/a52x.jpg',1)" /><img class="small" src="images/a34.jpg" onmouseover="sq('images/a34s.jpg',1)" />
+</div>
+
+<div style="float:left; margin-right:10pt; width:540px; height:432px;">
+<div style="float:left;">
+<img class="small" src="images/a36.jpg" onmouseover="tl('images/a36t.jpg',2)" /><br />
+<img class="small" src="images/a10.jpg" onmouseover="wd('images/a10w.jpg',2)" /><br />
+<img class="small" src="images/a24.jpg" onmouseover="wd('images/a24w.jpg',2)" /><br />
+<img class="small" src="images/a3.jpg" onmouseover="sq('images/a3s.jpg',2)" />
+</div>
+<div style="float:left;">
+<div class="container"><img class="square" id="s2" src="images/a5s.jpg" alt="" /><img class="wide" id="w2" alt="" src="" /><img class="xtra" id="x2" alt="" src="" /><img class="tall" id="t2" alt="" src="" /><img class="ultra" id="u2" alt="" src="" /></div>
+<img class="ie6_fix" width="108px" height="108px" src="images/p0.png" onmouseover="xt('images/p0x.png',2)" /><img class="small" src="images/a20.jpg" onmouseover="wd('images/a20w.jpg',2)" /><img class="small" src="images/a30.jpg" onmouseover="wd('images/a30w.jpg',2)" />
+</div>
+<div style="float:left;">
+<img class="small" src="images/a51.jpg" onmouseover="ul('images/a51u.jpg',2)" /><br />
+<img class="small" src="images/a23.jpg" onmouseover="sq('images/a23s.jpg',2)" /><br />
+<img class="small" src="images/a6.jpg" onmouseover="tl('images/a6t.jpg',2)" /><br />
+<img class="small" src="images/a14.jpg" onmouseover="sq('images/a14s.jpg',2)" />
+</div>
+</div>
+
+<p class="rgt">There are three bedrooms on the second floor, each with their own individual character and designer created bathrooms. The large, master bedroom has a king size bed, french windows and a balcony looking out at two beautiful mountains: Nyon and the T&ecirc;te de Bossetan. The en suite bathroom has both a bath and separate shower.</p>
+<p class="rgt">Another bedroom has a king size bed, a balcony (again through french windows) looking out over Morzine and the mountains behind it, plus an ensuite shower-room. The third room is a twin room with high eaves and windows looking out towards the cliffs of Avoriaz, with its en suite bathroom.</p>
+<p class="rgt">There are a further two equally characterful bedrooms on the ground floor, one with a king size bed which can convert to two singles if required, and an en suite bathroom. The other bedroom has two single beds, plus en suite bathroom.  We provide towels, bed linen, and hair dryers for every room, and complimentary bath products in every bathroom.</p>
+<p class="rgt">Also on the ground floor is the large entrance hall, with boot warmer and room to store all your ski equipment. There are additional w.c.s on both the ground and first floors. And just next to the chalet is a double garage, a huge bonus in snowy conditions as it avoids having to de-snow the car.</p>
+
+</div>
+<!--#include virtual="bottom.inc" -->

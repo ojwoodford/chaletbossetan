@@ -5,6 +5,7 @@
 <meta name="description" content="A spacious, contemporary, high-spec chalet with ski in/ski out access and stunning views, sleeping 10 in 5 en suite bedrooms, available to rent self-catered or catered." />
 <meta name="keywords" content="morzine, chalet, self-catered, catered, ski, skiing, portes du soleil, france, alps, winter, holiday, bossetan, avoriaz, les gets, chatel, rent, hire, let, en suite, bathroom, ten, sleeps, booking, geneva, airport, large, february" />
 <link rel="stylesheet" type="text/css" href="style.css" />
+<script src="/openseadragon/openseadragon.min.js"></script>
 </head>
 <body>
 <table cellspacing="0" cellpadding="0">
@@ -19,13 +20,18 @@ drag the map around, zoom in and out (buttons top left), see terrain or satellit
 <iframe style="width:486px; height:486px;" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="http://maps.google.co.uk/maps/ms?hl=en&amp;gl=uk&amp;ie=UTF8&amp;oe=UTF8&amp;s=AARTsJp17cEhVMVwcg92mBKKXMoc8WxqaQ&amp;msa=0&amp;msid=118082409727805668439.00045651eb9f17a415d7c&amp;ll=46.177,6.706&amp;spn=0.0208,0.041714&amp;z=15&amp;output=embed"></iframe>
 <div style="font-size:8pt; float:left;">View <a href="http://maps.google.co.uk/maps/ms?hl=en&ie=UTF8&msa=0&msid=118082409727805668439.00045651eb9f17a415d7c&ll=46.174244,6.704836&spn=0.023893,0.055618&z=15" target="_blank">larger map</a>, especially if the map or chalet icon have not appeared.</div>
 </td><td width="486px">
-<object style="width:486px; height:486px;" id="theMovie" classid="clsid:d27cdb6e-ae6d-11cf-96b8-444553540000">
-  <param name="FlashVars" value="zoomifyImagePath=piste_map/&zoomifyX=-0.19&zoomifyY=0.25&zoomifyZoom=75" />
-  <param name="MENU" value="FALSE" />
-  <param name="SRC" value="piste_map/zoomifyViewer.swf" />
-  <embed FlashVars="zoomifyImagePath=piste_map/&zoomifyX=-0.19&zoomifyY=0.25&zoomifyZoom=75" src="piste_map/zoomifyViewer.swf" menu="false" type="application/x-shockwave-flash" pluginspage="http://www.adobe.com/go/getflash" width="486" height="486" name="theMovie" alt="Portes du Soleil piste map"></embed>
-</object>
-<div style="font-size:8pt; float:right;">Powered by <a href="http://www.zoomify.com/" target="_blank">Zoomify</a>.</div>
+  <script type="text/javascript">
+    OpenSeadragon({
+        prefixUrl:      "openseadragon/images/",
+        showNavigator:  true,
+        tileSources:    [{
+            type:       "zoomifytileservice",
+            width:      6170,
+            height:     3410,
+            tilesUrl:   "piste_map/"
+        }]
+    });
+</script>
 </td></tr></table>
 
 </td><td></td></tr>
